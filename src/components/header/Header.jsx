@@ -6,7 +6,7 @@ function Header() {
       <div className="max-w-[1440px] m-[0,auto] px-[20px] py-0">
         <nav className="flex justify-between items-center ">
           <a href="#" className="flex">
-            <img src="/public/image 48.png" alt="" />
+            <img src="/image 48.png" alt="" />
             <svg
               width="163"
               height="38"
